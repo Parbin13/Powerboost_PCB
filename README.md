@@ -27,4 +27,4 @@ To view and modify the PCB design:
 1. Install **KiCAD** from [here](https://kicad.org/).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PCB_PowerBooster_Controller.git
+   git clone https://github.com/Parbin13/PCB_PowerBooster_Controller.git
